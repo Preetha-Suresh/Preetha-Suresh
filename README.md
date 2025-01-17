@@ -1,4 +1,4 @@
-[![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)]
+![MasterHead](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif)
 <h1 align="center">Hi 👋, I'm Preetha</h1>
 <h3 align="center">A Software Engineering UnderGrad from India</h3>
 
